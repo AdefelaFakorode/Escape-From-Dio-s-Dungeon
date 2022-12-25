@@ -1,0 +1,6 @@
+﻿  Escape From Dio's Dungen.cpp
+C:\Users\Adefela Fakorode\One - Drive Adefela Fakorode\Desktop\C++ Projects\Escape From Dio's Dungen\Escape From Dio's Dungen.cpp(12,10): warning C4566: character represented by universal-character-name '\u2665' cannot be represented in the current code page (1252)
+C:\Users\Adefela Fakorode\One - Drive Adefela Fakorode\Desktop\C++ Projects\Escape From Dio's Dungen\Escape From Dio's Dungen.cpp(13,10): warning C4566: character represented by universal-character-name '\u2665' cannot be represented in the current code page (1252)
+C:\Users\Adefela Fakorode\One - Drive Adefela Fakorode\Desktop\C++ Projects\Escape From Dio's Dungen\Escape From Dio's Dungen.cpp(14,10): warning C4566: character represented by universal-character-name '\u2665' cannot be represented in the current code page (1252)
+C:\Users\Adefela Fakorode\One - Drive Adefela Fakorode\Desktop\C++ Projects\Escape From Dio's Dungen\Escape From Dio's Dungen.cpp(72,6): warning C4101: 'number': unreferenced local variable
+  Escape From Dio's Dungen.vcxproj -> C:\Users\Adefela Fakorode\One - Drive Adefela Fakorode\Desktop\C++ Projects\Escape From Dio's Dungen\x64\Debug\Escape From Dio's Dungen.exe
